@@ -1,40 +1,50 @@
-<!-- SRC: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
-### Hi there 👋
-
-<br>
-
+# Hi there, I'm Paul 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fancy%20coder;Android%20developer;Amateur%20fullstacker&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
+  <img src="https://streak-stats.demolab.com?user=longnghia&theme=transparent" alt="GitHub Streak" />
 </p>
+
+## 🚀 Skills
+
+![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="./astro-mona.webp" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=longnghia&show_icons=true&theme=transparent" alt="Long Nghia's GitHub Stats" />
 </p>
 
-<br>
-<!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCLl0Lq9bacCzCAErWiwyg_A"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Facebook" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnghia&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
+## 🌟 Featured Projects
 
+- [Go Money](https://github.com/longnghia/GoMoney) - IOS application to manage your income/outcome.
+- [Read Later](https://github.com/longnghia/read-later) - Firefox extension to save tabs to read later.
+- [Todo](https://github.com/longnghia/project3) - TUI app to mange your todos.
 
-<!--
-**LongNghia/LongNghia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-long-nghia)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Long36691455)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longnghia2.00@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p align="center">
+   <img src="https://profile-counter.glitch.me/longnghia/count.svg" alt="Visitor Count" />
+</p>
