@@ -30,17 +30,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=longnghia&show_icons=true&theme=transparent" alt="Long Nghia's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnghia&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ## 🌟 Featured Projects
 
-- [Go Money](https://github.com/longnghia/Go-Money) - IOS application to manage your income/outcome.
+- [Go Money](https://github.com/longnghia/Go-Money) - iOS application to manage your income/outcome.
 - [Read Later](https://github.com/longnghia/read-later) - Firefox extension to save tabs to read later.
-- [Todo](https://github.com/longnghia/todo-tui) - TUI app to mange your todos.
+- [Todo](https://github.com/longnghia/todo-tui) - TUI app to manage your todos.
 
 ## 📫 How to reach me
 
