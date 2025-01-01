@@ -29,22 +29,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longnghia&show_icons=true&theme=transparent" alt="Long Nghia's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnghia&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulcoding810&show_icons=true&theme=transparent" alt="Long Nghia's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulcoding810&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ## 🌟 Featured Projects
 
-- [Go Money](https://github.com/longnghia/Go-Money) - iOS application to manage your income/outcome.
-- [Read Later](https://github.com/longnghia/read-later) - Firefox extension to save tabs to read later.
-- [Todo](https://github.com/longnghia/todo-tui) - TUI app to manage your todos.
+- [Go Money](https://github.com/paulcoding810/Go-Money) - iOS application to manage your income/outcome.
+- [Read Later](https://github.com/paulcoding810/read-later) - Firefox extension to save tabs to read later.
+- [Todo](https://github.com/paulcoding810/todo-tui) - TUI app to manage your todos.
 
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-long-nghia)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Long36691455)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longnghia2.00@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulcoding8102.00@gmail.com)
 
 <p align="center">
-   <img src="https://profile-counter.glitch.me/longnghia/count.svg" alt="Visitor Count" />
+   <img src="https://profile-counter.glitch.me/paulcoding810/count.svg" alt="Visitor Count" />
 </p>
