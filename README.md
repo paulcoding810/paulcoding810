@@ -1,7 +1,7 @@
 # Hi there, I'm Paul 👋
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=longnghia&theme=transparent" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=paulcoding810&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ## 🚀 Skills
