@@ -1,7 +1,7 @@
 # Hi there, I'm Paul 👋
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=paulcoding810&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-three-ashen.vercel.app?user=paulcoding810&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ## 🚀 Skills
@@ -36,8 +36,9 @@
 ## 🌟 Featured Projects
 
 - [Go Money](https://github.com/paulcoding810/Go-Money) - iOS application to manage your income/outcome.
-- [Read Later](https://github.com/paulcoding810/read-later) - Firefox extension to save tabs to read later.
-- [Todo](https://github.com/paulcoding810/todo-tui) - TUI app to manage your todos.
+- [H Viewer](https://github.com/paulcoding810/h-viewer) - An Android application for extracting image content from websites.
+- [Pin Downloader](https://github.com/paulcoding810/pin-downloader-kt) - Pinterest & Pixiv Downloader.
+- [New Tab](https://github.com/paulcoding810/new-tab)  Personalize your browser’s new tab page.
 
 ## 📫 How to reach me
 
