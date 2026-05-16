@@ -1,7 +1,7 @@
 # Hi, I'm Paul 👋
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Android developer; JS enthusiast; FOSS lover&font=Fira%20Code&center=true&width=440&height=45&color=006aff&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Android%20developer;JS%20enthusiast;FOSS%20lover&font=Fira%20Code&center=true&width=440&height=45&color=006aff&vCenter=true&pause=1000&size=22" />
 </p>
 
 <p align="center">
@@ -40,21 +40,21 @@
 ## Featured Projects
 
 <p align="left">
-   <a href="https://github.com/paulcoding810/Go-Money"><img width="278"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulcoding810&repo=Go-Money&theme=react&bg_color=FFF&title_color=006aff&text_color=49838c&hide_border=false&icon_color=F8D866&show_icons=false"
-         alt="Go-Money" /></a>
    <a href="https://github.com/paulcoding810/h-viewer"><img width="278"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulcoding810&repo=h-viewer&theme=react&bg_color=FFF&title_color=006aff&text_color=49838c&hide_border=false&icon_color=F8D866&show_icons=false"
          alt="h-viewer" /></a>
    <a href="https://github.com/paulcoding810/pin-downloader-kt"><img width="278"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulcoding810&repo=pin-downloader-kt&theme=react&bg_color=FFF&title_color=006aff&text_color=49838c&hide_border=false&icon_color=F8D866&show_icons=false"
          alt="pin-downloader-kt" /></a>
+   <a href="https://github.com/paulcoding810/Go-Money"><img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulcoding810&repo=Go-Money&theme=react&bg_color=FFF&title_color=006aff&text_color=49838c&hide_border=false&icon_color=F8D866&show_icons=false"
+         alt="Go-Money" /></a>
    <a href="https://github.com/paulcoding810/read-later-v3"><img width="278"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulcoding810&repo=read-later-v3&theme=react&bg_color=FFF&title_color=006aff&text_color=49838c&hide_border=false&icon_color=F8D866&show_icons=false"
          alt="read-later-v3" /></a>
-   <a href="https://github.com/paulcoding810/new-tab"><img width="278"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulcoding810&repo=new-tab&theme=react&bg_color=FFF&title_color=006aff&text_color=49838c&hide_border=false&icon_color=F8D866&show_icons=false"
-         alt="new-tab" /></a>
+   <a href="https://github.com/paulcoding810/win-jump"><img width="278"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulcoding810&repo=win-jump&theme=react&bg_color=FFF&title_color=006aff&text_color=49838c&hide_border=false&icon_color=F8D866&show_icons=false"
+         alt="win-jump" /></a>
 </p>
 
 <a href="https://github.com/paulcoding810?tab=repositories&sort=stargazers"><img alt="All Repositories"
